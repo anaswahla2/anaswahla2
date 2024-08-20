@@ -1,6 +1,6 @@
 - 👋 Hi, I’m anas ahmad   
 - 👀 I’m interested in coding and love to teach new things about the coding 
-- 🌱 I’m currently learning coding from online tutorials via youtube and just take addmission in BS.CS
+- 🌱 I’m currently learning coding from online tutorials via youtube and just got addmission in BS.CS
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me through the emial ahmadannas176@gmail.com
 - 😄 Pronouns: he, his, him
